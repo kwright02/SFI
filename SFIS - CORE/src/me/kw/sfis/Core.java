@@ -21,7 +21,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class Core extends JavaPlugin implements Listener {
 
 	public static ArrayList<Plugin> hooks;
-	static SQLConnector connector;
+	public static SQLConnector connector;
 
 	@Override
 	public void onEnable(){
