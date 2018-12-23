@@ -1,0 +1,8 @@
+name: SFISCore
+description: Core plugin for all SFIS modules
+version: 1.0
+author: Kwright02
+main: me.kw.sfis.Core
+commands:
+    sfi:
+        description: Sfi system
